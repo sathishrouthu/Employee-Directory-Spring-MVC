@@ -27,7 +27,5 @@ These operations collectively provide Create, Read, Update, and Delete (CRUD) fu
 
 #### Output results :
 
-<video width="640" height="360" controls>
-  <source src="output/output.mp4">
-  Your browser does not support the video tag.
-</video>
+[![Video Label](http://img.youtube.com/vi/rFaok94aj8E/0.jpg)](https://youtu.be/rFaok94aj8E)
+

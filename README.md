@@ -24,3 +24,10 @@ Certainly! Here's the description of each CRUD operation for managing the employ
 - **Use**: Handles the deletion of an existing employee. It accepts the `employeeId` as a request parameter and deletes the corresponding employee record from the database. After deletion, the user is redirected back to the list of employees (`/employees`), now excluding the deleted employee.
 
 These operations collectively provide Create, Read, Update, and Delete (CRUD) functionality for managing the employee directory. Users can view, add, edit, and delete employee records using these operations.
+
+#### Output results :
+
+<video width="640" height="360" controls>
+  <source src="output/output.mp4">
+  Your browser does not support the video tag.
+</video>

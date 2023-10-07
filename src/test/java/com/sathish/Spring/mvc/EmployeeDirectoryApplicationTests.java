@@ -1,4 +1,4 @@
-package com.sathish.Spring.MVC;
+package com.sathish.Spring.mvc;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
